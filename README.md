@@ -1,3 +1,4 @@
+[![Unit Tests](https://github.com/nerivmel/lab22023/actions/workflows/testing.yml/badge.svg)](https://github.com/nerivmel/lab22023/actions/workflows/testing.yml)
 Implementation of a Simple Calculator with the next operations:
 
 * Add
