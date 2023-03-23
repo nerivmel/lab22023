@@ -3,6 +3,8 @@ Implementation of a Simple Calculator with the next operations:
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=nerivmel_lab22023)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nerivmel_lab22023&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nerivmel_lab22023)
+
 * Add
 * Minus
 * Multiply
